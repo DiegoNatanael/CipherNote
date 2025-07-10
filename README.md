@@ -83,11 +83,11 @@ To get a local copy of CipherNote up and running on your development machine, fo
 
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/](https://github.com/)[YOUR_GITHUB_USERNAME]/ciphernote.git
+    git clone https://github.com/DiegoNatanael/CipherNote
     ```
 2.  Navigate into the project directory:
     ```sh
-    cd ciphernote
+    cd CipherNote
     ```
 3.  Install project dependencies:
     ```sh
