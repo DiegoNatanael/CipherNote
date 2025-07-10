@@ -32,7 +32,6 @@ Every note is encrypted using a powerful encryption key derived from your master
 * **Secure Key Derivation:** Employs industry-standard algorithms to derive a robust encryption key from your master password without storing the key itself.
 * **User-Specific Salt:** A unique cryptographic salt is securely generated and stored for each user, enhancing password security.
 * **Intuitive Interface:** Simple and clean design for easy note creation, viewing, and deletion.
-* **Biometric Authentication (Future Feature / Placeholder):** (If you plan to add this, otherwise remove) Quick and secure access via fingerprint or face unlock after initial master password setup.
 
 ---
 
